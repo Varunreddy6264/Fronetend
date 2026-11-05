@@ -1,1 +1,1 @@
-# Fronetend
+CURSE PROJECT
